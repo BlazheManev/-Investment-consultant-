@@ -1,1 +1,2 @@
 # -Investment-consultant-
+Basically, it was a project that allowed an individual to step on an investment platform to learn the basics of stocks and cryptocurrencies. At first it was about stocks, but later I suggested adding crypto pages because it was very popular at the time and will be in the future because it is for the better. The user can log in, send emails to the consultant, and contact information was also available for all the consultants.
